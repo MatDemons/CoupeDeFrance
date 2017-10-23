@@ -1,13 +1,39 @@
 # Coupe de France de robotique
 
+## La fine équipe
+### chargé de projet
+  Gilou
+### vice chargé de projet
+  Thibault
+
+### Electronique 
+  Pierrick
+  Mathieu
+  
+### Informatique
+  Thibault
+  Jean-florian
+  
+### Mecanique
+  Junior
+  Quentin
+  
+### Communication
+  Victor
+
+### Liens Crystéo
+  Gautier
+
 ## Robot principal
 
 Notre robot principal doit être capable de réaliser les modules suivants :
 
 | Nom du module | Priorité |
 |---|---|
-|Ramassage de cylindres |Moyenne|
-|Funny action |Haute|
+|Asservissement|Haute|
+|||
+|Ramassage de cubes |Basse|
+|Funny action |Moyenne|
 
 ## Robot secondaire
 
