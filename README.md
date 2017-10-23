@@ -2,7 +2,7 @@
 
 ## La fine équipe
 ### chargé de projet
-  Gilou
+&nbsp;&nbsp;  Gilou
 ### vice chargé de projet
   Thibault
 
