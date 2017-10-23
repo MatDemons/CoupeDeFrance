@@ -2,27 +2,27 @@
 
 ## La fine équipe
 ### chargé de projet
-&nbsp;&nbsp;  Gilou
+&nbsp;&nbsp;&nbsp;&nbsp;  Gilou
 ### vice chargé de projet
-  Thibault
+&nbsp;&nbsp;&nbsp;&nbsp;  Thibault
 
 ### Electronique 
-  Pierrick
-  Mathieu
+&nbsp;&nbsp;&nbsp;&nbsp;  Pierrick
+&nbsp;&nbsp;&nbsp;&nbsp;  Mathieu
   
 ### Informatique
-  Thibault
-  Jean-florian
+&nbsp;&nbsp;&nbsp;&nbsp;  Thibault
+&nbsp;&nbsp;&nbsp;&nbsp;  Jean-florian
   
 ### Mecanique
-  Junior
-  Quentin
+&nbsp;&nbsp;&nbsp;&nbsp;  Junior
+&nbsp;&nbsp;&nbsp;&nbsp;  Quentin
   
 ### Communication
-  Victor
+&nbsp;&nbsp;&nbsp;&nbsp;  Victor
 
 ### Liens Crystéo
-  Gautier
+&nbsp;&nbsp;&nbsp;&nbsp;  Gautier
 
 ## Robot principal
 
