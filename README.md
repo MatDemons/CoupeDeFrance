@@ -7,13 +7,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  Thibault
 
 ### Electronique 
-&nbsp;&nbsp;&nbsp;&nbsp;  Pierrick
 &nbsp;&nbsp;&nbsp;&nbsp;  Mathieu
   
 ### Informatique
 &nbsp;&nbsp;&nbsp;&nbsp;  Thibault
-&nbsp;&nbsp;&nbsp;&nbsp;  Jean-florian
-  
+&nbsp;&nbsp;&nbsp;&nbsp;  Brice
+
 ### Mecanique
 &nbsp;&nbsp;&nbsp;&nbsp;  Junior
 &nbsp;&nbsp;&nbsp;&nbsp;  Quentin
