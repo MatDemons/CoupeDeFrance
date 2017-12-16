@@ -15,7 +15,6 @@
 
 ### Mecanique
 &nbsp;&nbsp;&nbsp;&nbsp;  Junior
-&nbsp;&nbsp;&nbsp;&nbsp;  Quentin
   
 ### Communication
 &nbsp;&nbsp;&nbsp;&nbsp;  Victor
