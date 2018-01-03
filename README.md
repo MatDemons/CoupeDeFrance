@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  Thibault
 
 ### Electronique 
-&nbsp;&nbsp;&nbsp;&nbsp;  Mathieu
+&nbsp;&nbsp;&nbsp;&nbsp;  Matthieu *2
   
 ### Informatique
 &nbsp;&nbsp;&nbsp;&nbsp;  Thibault
